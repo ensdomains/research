@@ -10,7 +10,9 @@
 ## Goals
 
 The goals of the ENS dispute resolution system is to provide a way for the ethereum community to be able to blacklist 
-nodes they deem as not safe or scam addresses. The largest issue however is how we can incentivize a broad community of 
+nodes they deem as not safe or scam addresses. Additionally, there should be a method to get nodes / domains to their rightful owners.
+Name squatting should be disincentivized.
+The largest issue however is how we can incentivize a broad community of 
 members to act justly in this system. This should be achieved without trusted judges and members that can override the system.
 
 The arbitration system should be usable by the entire ENS community and should have a large success rate. 
