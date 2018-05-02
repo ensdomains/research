@@ -17,6 +17,7 @@ The arbitration system should be usable by the entire ENS community and should h
 This means that bad actors should be identifiable. Incentivization needs to be solved for without using a tokenized 
 model, one proposed solution to this could be an insurance type system demanding all node owners to get a dispute insurance.
 
+The arbitration system should be similar to that of [ICANN](https://www.icann.org/resources/pages/help/dndr/udrp-en), there is no point in reinventing the wheel.
 
 ## Problems
 
