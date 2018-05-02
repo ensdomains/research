@@ -4,6 +4,8 @@
  - Election of Judges
  - Evidence
  - Incentivization
+ - Insurance
+ - Broadcasting of disputes (How do we notify people their domain is involved in a dispute)
 
 ## Goals
 
@@ -14,6 +16,13 @@ members to act justly in this system. This should be achieved without trusted ju
 The arbitration system should be usable by the entire ENS community and should have a large success rate. 
 This means that bad actors should be identifiable. Incentivization needs to be solved for without using a tokenized 
 model, one proposed solution to this could be an insurance type system demanding all node owners to get a dispute insurance.
+
+
+## Problems
+
+### Inactive Parties
+
+### Insurance
 
 ## Proposal
 
