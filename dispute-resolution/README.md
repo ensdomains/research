@@ -38,6 +38,14 @@ most likely create serious overhead for the entire ecosystem.
 
 Ideally most disputes would be handled through a mediation phase.
 
+### Network Effects
+
+Additionally it is important that signals from the ENS user base are taken into consideration, for example a domain that 
+has been blacklisted on various wallets such as [MyCrypto](https://mycrypto.com/) or [MyEtherWallet](https://www.myetherwallet.com/)
+can most likely be considered malicious, the question here however is how this is broadcasted to the rest of the network.
+Do these wallets implement public [blacklists](https://github.com/ensdomains/blacklist) or should their actions allow for the
+opening of a dispute?
+
 ## Process
 
 ![process](resources/diagram.jpg)
