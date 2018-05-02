@@ -46,6 +46,10 @@ can most likely be considered malicious, the question here however is how this i
 Do these wallets implement public [blacklists](https://github.com/ensdomains/blacklist) or should their actions allow for the
 opening of a dispute?
 
+### Trademarks & Copyright
+
+@TODO: Discuss whether these should be considered or not.
+
 ## Process
 
 ![process](resources/diagram.jpg)
