@@ -36,6 +36,15 @@ most likely create serious overhead for the entire ecosystem.
 
 Ideally most disputes would be handled through a mediation phase.
 
+## Process
+
+![process](resources/diagram.jpg)
+
+@TODO make proper diagram.
+
+@TODO highlight proposed process.
+
+
 ## Components
 
 - [Blacklist](https://github.com/ensdomains/blacklist)
