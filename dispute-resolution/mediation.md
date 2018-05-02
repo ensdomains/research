@@ -21,3 +21,7 @@ would obviously lead to immediate arbitration as both parties are required for m
 3. Agreement to now action.
 
 If none of the above proposed outcomes is met, the mediation will continue to an arbitration phase.
+
+## Mediators
+
+Do we need these?
