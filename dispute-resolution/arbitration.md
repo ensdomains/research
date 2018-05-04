@@ -16,3 +16,9 @@ Should stakes be case specific or one stake in total?
 ### Reputation
 
 ### Election
+
+## Fake Disputes
+
+The system should open fake disputes periodically at random
+to see how judges will act, this could have certain effect 
+on their reputation.
