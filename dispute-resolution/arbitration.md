@@ -13,6 +13,8 @@ until all disputes appeal periods are expired which an arbitrator was linked to.
 
 Should stakes be case specific or one stake in total?
 
+Slashing should be dependent on reputation, or how many appeals against said judge were successful.
+
 ### Reputation
 
 ### Election
