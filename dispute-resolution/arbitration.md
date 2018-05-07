@@ -19,7 +19,7 @@ Slashing should be dependent on reputation, or how many appeals against said jud
 
 ### Election
 
-## Fake Disputes
+## Fake Disputes / Forced Errors
 
 The system should open fake disputes periodically at random
 to see how judges will act, this could have certain effect 
