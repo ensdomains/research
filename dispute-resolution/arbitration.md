@@ -19,6 +19,8 @@ Slashing should be dependent on reputation, or how many appeals against said jud
 
 ### Reputation
 
+Rank arbitrators the way chess players are ranked, by creating false cases with expected outcomes. We can then see if an arbitrator aligns with the rules of the system and calculate a probability that the arbitrator will enforce the rules of the system.
+
 ### Election
 
 ## Fake Disputes / Forced Errors
