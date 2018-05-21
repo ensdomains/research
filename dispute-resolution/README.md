@@ -52,9 +52,9 @@ opening of a dispute?
 
 ## Process
 
-![process](resources/diagram.jpg)
+![process](resources/diagram.png)
 
-@TODO make proper diagram.
+@TODO explain limitations of arbitration process + proposal of what happens when arbitrators cannot reach an agreement
 
 @TODO highlight proposed process.
 
