@@ -28,3 +28,5 @@ Rank arbitrators the way chess players are ranked, by creating false cases with 
 The system should open fake disputes periodically at random
 to see how judges will act, this could have certain effect 
 on their reputation.
+
+- [Forced Bribes](https://medium.com/the-ethereum-name-service/forced-bribes-88ae18f108e)
